@@ -6,11 +6,6 @@ use UweLehmann\Process\Process;
 use UweLehmann\Process\Pipes;
 
 /**
- * add to your application phpunit.xml.dist
- * <testsuite name="vendor-nxclass-process">
- *     <file>./vendor/nxclass/process/tests/ProcessTest.php</file>
- * </testsuite>
- * and execute: vendor/bin/phpunit --testsuite vendor-nxclass-process
  *
  * @author Uwe Lehmann <lehmann.uwe@gmx.de>
  * @copyright (c) 2017, Uwe Lehmann
