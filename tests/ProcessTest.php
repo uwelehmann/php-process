@@ -1,6 +1,6 @@
 <?php
 
-namespace UweLehmann\Process;
+namespace UweLehmann\ProcessTest;
 
 use UweLehmann\Process\Process;
 use UweLehmann\Process\Pipes;
